@@ -143,7 +143,7 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="photo_2022-06-15_01-03-4" translatesAutoresizingMaskIntoConstraints="NO" id="cPs-UI-ydI">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="IMG_20190721_104221-removebg-preview" translatesAutoresizingMaskIntoConstraints="NO" id="cPs-UI-ydI">
                                 <rect key="frame" x="132" y="24" width="150" height="150"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="150" id="K3X-ig-fHd"/>
@@ -175,9 +175,9 @@
         </scene>
     </scenes>
     <resources>
+        <image name="IMG_20190721_104221-removebg-preview" width="432" height="577"/>
         <image name="homekit" catalog="system" width="128" height="106"/>
         <image name="person.fill" catalog="system" width="128" height="120"/>
-        <image name="photo_2022-06-15_01-03-4" width="421" height="421"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
